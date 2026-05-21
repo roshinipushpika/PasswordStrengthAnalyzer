@@ -22,6 +22,14 @@ TECHNOLOGIES USED:
 - hashlib
 - Regular Expressions
 
+WEB VERSION:
+This project also includes a Flask-based web interface.
+Run:
+py app.py
+
+Open browser:
+http://127.0.0.1:5000
+
 HOW TO RUN:
 1. Open terminal
 2. Run:
@@ -33,3 +41,4 @@ The system displays:
 - Suggestions
 - Strong password recommendation
 - Hashed password
+
